@@ -19,5 +19,7 @@ Here the Javascript browser client uses the Web3.js library and MetaMask Wallet 
 
 
 
+You can try the app at:
 
+https://razd.ai/ethdenver.raz
 
